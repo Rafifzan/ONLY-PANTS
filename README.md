@@ -1,1 +1,1 @@
-# ONLY-PANTS
+# onlypants.io
